@@ -1,0 +1,15 @@
+{  
+  "name": "web-wizardop",  
+  "version": "1.5.7",  
+  "description": "dop分享",  
+  "main": "index.js",  
+  "scripts": {  
+    "test": "echo \"Error: no test specified\" && exit 1"  
+  },  
+  "repository": {  
+    "type": "git",  
+    "url": "https://github.com/zerokongz/web-wizardop"  
+  },  
+  "license": "ISC",  
+  "homepage": "https://github.com/zerokongz/web-wizardop"  
+}
